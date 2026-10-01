@@ -1,0 +1,12 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n+nc}{@book}\PYG{p}{\PYGZob{}}\PYG{+w}{ }\PYG{n+nl}{physik1}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{title}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}Physik 1\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{author}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}Christian Schweitzer, Peter Svoboda, Lutz Trieb\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{year}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}2011\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{subtitle}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}Mechanik, Thermodynamik, Optik\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{edition}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}7. Auflage\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{publisher}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}Veritas\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{pages}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}140, 145\PYGZhy{}150\PYGZcb{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n+na}{pagetotal}\PYG{+w}{ }\PYG{p}{=}\PYG{+w}{ }\PYG{l+s}{\PYGZob{}296\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{MintedVerbatim}

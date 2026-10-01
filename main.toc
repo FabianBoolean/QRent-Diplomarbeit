@@ -1,0 +1,17 @@
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {0.1}Quellen}{10}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Das erste Kapitel}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Ein Unterkapitel}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Noch ein Unterkapitel}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Ein Unter-Unterkapitel}{11}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {2}Das zweite Kapitel}{13}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Das dritte Kapitel}{15}{chapter.3}%
+\contentsline {chapter}{Literaturverzeichnis}{17}{chapter*.7}%
